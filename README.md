@@ -1,7 +1,7 @@
 # Machine Learning Engineer
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/davhercar/)
-Email: [Email](davidhdzcard@gmail.com)
+Find me in:
+[LinkedIn](https://www.linkedin.com/in/davhercar/) | [Email](davidhdzcard@gmail.com)
 Location: Monterrey, Mexico.
 
 #### Technical Skills: Python, SQL Server, SSIS, Power BI, AWS Sagemaker, Tableau, GIT
