@@ -5,7 +5,7 @@
 ## Relevant Projects
 
 ### **UNSPSC Categorizer**
-NLP tool developed Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
+NLP tool developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
 
 ### **Part Number Matcher**
 This is a Power BI dashboard that uses as datasource conclusions of similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy, and PyODBC library to connect to SQL Server.
