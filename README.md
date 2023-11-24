@@ -56,8 +56,12 @@ Tasks to predict cost were:
 The Tableau dashboard was made with features such as merge datasources, blend relationships, use of parameters, LOD expressions, etc.
 
 ### Blacklist System
-The objective of this project is to have a control of blocked phone numbers and emails.
+This project was made for a Debt Collection team. 
 
-This project was implemented using Windows Forms automated with Excel Macros as GUI and connected to SQL Server database secured by Windows Authentication.
+The objective of this project is to have a control of blocked phone numbers and emails for clients with problems in their credits.
 
-**Git and Github for version control in all projects **
+It was implemented using Windows Forms automated with Excel Macros as GUI and connected to SQL Server database secured by Windows Authentication.
+
+**Git and Github for version control in all projects.**
+
+**Minor automations with Power Automate, dataloader.io, DemandTools and Web Scraper Platform.**
