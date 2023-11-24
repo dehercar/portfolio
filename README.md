@@ -11,7 +11,7 @@ NLP tool developed Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and De
 This is a Power BI dashboard that uses as datasource conclusions of similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy, and PyODBC library to connect to SQL Server.
 
 ### **Productivity Predictor**
-**This is a Tableau dashboard developed for a Procurement Community whose datasource has future productivity predictions at part number level with two main purposes:**
+This is a Tableau dashboard developed for a Procurement Community whose datasource has future productivity predictions at part number level with two main purposes:
 1. Give visibility of future impacts on productivity based on cost trends.
 2. Find money leakage opportunities that impacts productivity by getting the gap of cost based on issued invoices and past submitted price udpate requests (e.g. PIR in SAP).
 
