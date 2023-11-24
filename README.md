@@ -2,16 +2,16 @@
 
 #### Technical Skills: Python, SQL Server, SSIS, Power BI, AWS Sagemaker, Tableau, GIT
 
-## Projects
+## Relevant Projects
 
 ### **UNSPSC Categorizer**
-This is a NLP tool I developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv).
+NLP tool developed Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
 
 ### **Part Number Matcher**
-This tool matches Part Numbers among them by looking at the characters content developed in Python and using RegEx, and for connecting to SQL Server Data base use of pyodbc module. 
+This tool matches Part Numbers among them by looking at the characters content developed with Python and using RegEx, and for connecting to SQL Server Data with PyODBC library. 
 
 ### **Productivity Predictor**
-This project was developed for a Procurement Community and predicts productivity at part number level with two main purposes:
+**This is a Tableau dashboard developed for a Procurement Community whose datasource has future productivity predictions at part number level with two main purposes:**
 1. Give visibility of future impacts on productivity based on cost trends.
 2. Find money leakage opportunities that impacts productivity by getting the gap of cost based on issued invoices and past submitted price udpate requests (e.g. PIR in SAP).
 
@@ -51,4 +51,6 @@ Tasks to predict cost were:
 
 
 #### 2. Money Leakage
+- Join Price Update Requests and issued Invoices data to find Productivity GAP comparing prices using efficient conditional Joins with relevant date fields among others.
 
+The Tableau dashboard was made with features such as merge datasources, blend relationships, use of parameters, LOD expressions, etc.
