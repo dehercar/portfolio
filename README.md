@@ -65,4 +65,4 @@ It was implemented using Windows Forms automated with Excel Macros as GUI and co
 
 **Git and Github for version control in all projects.**
 
-**Minor automations with Power Automate, dataloader.io, DemandTools and Web Scraper Platform.**
+**General automations with Power Automate, dataloader.io, DemandTools and Web Scraper Platform.**
