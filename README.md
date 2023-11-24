@@ -8,7 +8,7 @@
 NLP tool developed Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
 
 ### **Part Number Matcher**
-This tool matches Part Numbers among them by looking at the characters content developed with Python and using RegEx, and for connecting to SQL Server Data with PyODBC library. 
+This is a Power BI dashboard that uses as datasource conclusions of similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy, and PyODBC library to connect to SQL Server.
 
 ### **Productivity Predictor**
 **This is a Tableau dashboard developed for a Procurement Community whose datasource has future productivity predictions at part number level with two main purposes:**
@@ -30,7 +30,7 @@ Tasks to predict cost were:
 - Query SQL View in Python using PyODBC and Pandas
 - Do data analysis with matplotlib and find correlations in cost changes.
 - Digest data with numpy to be read by KERAS API.
-- Use KERAS to develop Neural Networks that predicts future costs.
+- Use KERAS to develop Neural Networks that predicts future costs deployed in AWS Sagemaker.
 
 
 ##### **b. Price Update Requests**
@@ -54,3 +54,10 @@ Tasks to predict cost were:
 - Join Price Update Requests and issued Invoices data to find Productivity GAP comparing prices using efficient conditional Joins with relevant date fields among others.
 
 The Tableau dashboard was made with features such as merge datasources, blend relationships, use of parameters, LOD expressions, etc.
+
+### Blacklist System
+The objective of this project is to have a control of blocked phone numbers and emails.
+
+This project was implemented using Windows Forms automated with Excel Macros as GUI and connected to SQL Server database secured by Windows Authentication.
+
+**Git and Github for version control in all projects **
