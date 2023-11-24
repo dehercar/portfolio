@@ -20,7 +20,7 @@ This project was developed for a Procurement Community and predicts productivity
 - forecasting procured **volumes** and
 - market **raw material** indices.
 
-###### a. Unit Costs predictions
+##### a. Unit Costs predictions
 Tasks to predict cost were:
 - Gather relevant ERP invoices data (mainly SAP) from the Datawarehouse on Tableau Server.
 - Create Schema, Dim and Fact tables in SQL Server.
@@ -32,7 +32,7 @@ Tasks to predict cost were:
 - Use KERAS to develop Neural Networks that predicts future costs.
 
 
-###### **b. Price Update Requests**
+##### **b. Price Update Requests**
 - Gather data from Price Update Requests in SQL Server database using conditional Joins
 - Create trigger database objects to insert rows. 
 
