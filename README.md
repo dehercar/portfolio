@@ -20,10 +20,11 @@ This project was developed for a Procurement Community and predicts productivity
 - forecasting procured **volumes** and
 - market **raw material** indices.
 
+
 ##### a. Unit Costs predictions
 Tasks to predict cost were:
 - Gather relevant ERP invoices data (mainly SAP) from the Datawarehouse on Tableau Server.
-- Create Schema, Dim and Fact tables in SQL Server.
+- Create Schema, Dimension and Fact tables in SQL Server.
 - ETL with SSIS dataflows. 
 - Create Views using relevant hierarchies following business rules.
 - Query SQL View in Python using PyODBC and Pandas
@@ -39,9 +40,15 @@ Tasks to predict cost were:
 
 ##### Volumes
 - Gather data from Tableau Server with forecast volumes at part number level made by different areas.
-- Creation of SQL Server Tables to store 
-- ETL with SSIS to
+- Creation of SQL Server Tables to store. 
+- ETL with SSIS dataflows.
+- Load data with PyODBC as described in Unit Costs predictions section.
 
 
 ##### Market Raw Material Indices
-#### 2. 
+- Gather Market Raw Material Indices data from SQL Server to Python.
+- Get cost breakdowns implementing financial calculations to Market Indices in Total Parts Cost manipulating and merging data with Pandas.
+
+
+#### 2. Money Leakage
+
