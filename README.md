@@ -4,19 +4,19 @@
 
 ## Projects
 
-### UNSPSC Categorizer
+### **UNSPSC Categorizer**
 This is a NLP tool I developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv).
 
-### Part Number Matcher
+### **Part Number Matcher**
 This tool matches Part Numbers among them by looking at the characters content developed in Python and using RegEx, and for connecting to SQL Server Data base use of pyodbc module. 
 
-### Productivity Predictor
+### **Productivity Predictor**
 This project was developed for a Procurement Community and predicts productivity at part number level with:
 - **cost predictions** based on correlations,
 - forecasting procured **volumes** and
 - **raw material** indices.
 
-#### Cost predictions
+#### **Cost predictions**
 Tasks to predict cost were:
 - Gather relveant ERP invoices data (mainly SAP) from the Datawarehouse on Tableau Server.
 - Create Schema, Dim and Fact tables in SQL Server.
