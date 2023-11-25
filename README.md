@@ -13,10 +13,10 @@ Location: Monterrey, Mexico.
 NLP tool developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
 
 ### **Part Number Matcher**
-This is a Power BI dashboard that uses as datasource conclusions of similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy and PyODBC library to connect to SQL Server, as well as gathering data from other Power BI datasources using DAX Studio.
+This Power BI dashboard uses as datasource conclusions about similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy and PyODBC library to connect to SQL Server, as well as gathering data from other Power BI datasources using DAX Studio. Datasource length about 1 million rows.
 
 ### **Productivity Predictor**
-This is a Tableau dashboard developed for a Procurement Community whose datasource has future productivity predictions at part number level with two main purposes:
+This is a Tableau dashboard developed for a Procurement Community whose datasource (3 million rows) has future productivity predictions at part number level with two main purposes:
 1. Give visibility of future impacts on productivity based on cost trends.
 2. Find money leakage opportunities that impacts productivity by getting the gap of cost based on issued invoices and past submitted price udpate requests (e.g. PIR in SAP).
 
