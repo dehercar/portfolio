@@ -9,10 +9,11 @@ Location: Monterrey, Mexico.
 
 ## Relevant Projects
 
-### **UNSPSC Categorizer** [See repository.](https://github.com/dehercar/UNSPSC_Categorizer)
+### **UNSPSC Categorizer** 
 NLP tool developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
 
 [See repository.](https://github.com/dehercar/UNSPSC_Categorizer)
+
 
 ### **Part Number Matcher**
 This Power BI dashboard uses as datasource conclusions about similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy and PyODBC library to connect to SQL Server, as well as gathering data from other Power BI datasources using DAX Studio. Datasource length about 1 million rows.
