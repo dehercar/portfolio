@@ -9,7 +9,7 @@ Location: Monterrey, Mexico.
 
 ## Relevant Projects
 
-### **UNSPSC Categorizer**
+### [UNSPSC Categorizer](https://github.com/dehercar/UNSPSC_Categorizer)
 NLP tool developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
 
 ### **Part Number Matcher**
