@@ -1,4 +1,4 @@
-# Machine Learning Engineer
+# Data science - Data engineering
 
 Contact me in:
 [LinkedIn](https://www.linkedin.com/in/davhercar/)
@@ -60,6 +60,12 @@ Tasks to predict cost were:
 - Join Price Update Requests and issued Invoices data to find Productivity GAP comparing prices using efficient conditional Joins with relevant date fields among others.
 
 The Tableau dashboard was made with features such as merge datasources, blend relationships, use of parameters, LOD expressions, etc.
+
+### [Sea Level Predictor](https://github.com/dehercar/sea_level_predictor) 
+The objective of this project is to predict sea levels for 2050 based on a dataset of global sea levels since 1880.
+
+This project in Jupyter Notebook uses Pandas, Numpy, Scipy and Matplotlib.
+
 
 ### Blacklist System
 This project was made for a Debt Collection team. 
