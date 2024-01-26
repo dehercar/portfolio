@@ -9,8 +9,10 @@ Location: Monterrey, Mexico.
 
 ## Relevant Projects
 
-### [UNSPSC Categorizer](https://github.com/dehercar/UNSPSC_Categorizer)
+### **UNSPSC Categorizer** [See repository.](https://github.com/dehercar/UNSPSC_Categorizer)
 NLP tool developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
+
+[See repository.](https://github.com/dehercar/UNSPSC_Categorizer)
 
 ### **Part Number Matcher**
 This Power BI dashboard uses as datasource conclusions about similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy and PyODBC library to connect to SQL Server, as well as gathering data from other Power BI datasources using DAX Studio. Datasource length about 1 million rows.
@@ -61,10 +63,12 @@ Tasks to predict cost were:
 
 The Tableau dashboard was made with features such as merge datasources, blend relationships, use of parameters, LOD expressions, etc.
 
-### [Sea Level Predictor](https://github.com/dehercar/sea_level_predictor) 
+### **Sea Level Predictor** 
 The objective of this project is to predict sea levels for 2050 based on a dataset of global sea levels since 1880.
 
 This project in Jupyter Notebook uses Pandas, Numpy, Scipy and Matplotlib.
+
+[See repository.](https://github.com/dehercar/sea_level_predictor) 
 
 
 ### Blacklist System
