@@ -75,7 +75,7 @@ This project in Jupyter Notebook uses Pandas, Numpy, Scipy and Matplotlib.
 ### **Cardiac Diseases**
 These modules were developed to perform data analysis over a dataset of 70k patients. Variables like blood preasure, height, weigth, patologies, etc were examinated on them.
 
-By analyzing demographic, medical and habits data we want to determine if they can lead into a cardio disease.
+By analyzing demographic, medical and habits data we want to determine if they can lead into a cardiac disease.
 
 [See repository.](https://github.com/dehercar/medical_data)
 
