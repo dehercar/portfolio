@@ -72,6 +72,14 @@ This project in Jupyter Notebook uses Pandas, Numpy, Scipy and Matplotlib.
 [See repository.](https://github.com/dehercar/sea_level_predictor) 
 
 
+### **Cardiac Diseases**
+These modules were developed to perform data analysis over a dataset of 70k patients. Variables like blood preasure, height, weigth, patologies, etc were examinated on them.
+
+By analyzing demographic, medical and habits data we want to determine if they can lead into a cardio disease.
+
+[See repository.](https://github.com/dehercar/medical_data)
+
+
 ### Blacklist System
 This project was made for a Debt Collection team. 
 
