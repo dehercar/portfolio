@@ -16,7 +16,7 @@ NLP tool developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and
 
 
 ### **Part Number Matcher**
-This Power BI dashboard uses as datasource conclusions about similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy and PyODBC library to connect to SQL Server, as well as gathering data from other Power BI datasources using DAX Studio. Datasource length about 1 million rows.
+This Power BI dashboard uses as datasource conclusions about similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy and PyODBC libraries to connect to SQL Server, as well as gathering data from other Power BI datasources using DAX Studio. Datasource length about 1 million rows.
 
 ### **Productivity Predictor**
 This is a Tableau dashboard developed for a Procurement Community whose datasource (3 million rows) has future productivity predictions at part number level with two main purposes:
