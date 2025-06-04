@@ -1,4 +1,4 @@
-# Certified Azure Data Engineer [🎓](https://learn.microsoft.com/en-us/users/davidhernandez-6060/credentials/5564a068924c3840?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+# [Certified Azure Data Engineer 🎓](https://learn.microsoft.com/en-us/users/davidhernandez-6060/credentials/5564a068924c3840?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 Contact me in:
 [LinkedIn](https://www.linkedin.com/in/davhercar/)
