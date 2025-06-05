@@ -7,22 +7,35 @@ Location: Monterrey, Mexico.
 
 #### Technical Skills: Azure, Synapse, Data Factory, Databricks, Python, SQL Server, SSIS, Power BI, AWS Sagemaker, Tableau, GIT
 
-## Relevant Projects
-
-### **UNSPSC Categorizer** 
-NLP tool developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
-
-[See repository.](https://github.com/dehercar/UNSPSC_Categorizer)
-
-
-### **Part Number Matcher**
-This Power BI dashboard uses as datasource conclusions about similarities on Part Numbers to identify duplicated developed with Python and using RegEx, fuzzywuzzy and PyODBC libraries to connect to SQL Server, as well as gathering data from other Power BI datasources using DAX Studio. Datasource length about 1 million rows.
+## Azure Projects
 
 ### **Productivity Predictor**
 •	Created a medallion schema with Dimension and Fact tables.
 •	Ingested SAP price update requests and raw material prices (REST API) via Azure Data Factory pipelines to calculate productivity impacts using Databricks.
 •	Used KERAS to develop Neural Networks for predicting parts cost and estimate impact productivity.
 •	Used and Optimize Synapse SQL Pools allowing direct connections from Power BI and Tableau.
+
+### Appbot Datawarehouse
+•	Implemented an ELT solution using medallion architecture to track Mobile App data from Appbot REST API.
+•	Performed data profiling analysis and adhoc transformations in silver layer.
+•	Created gold layer in Synapse SQL Pool.
+•	Developed deployment plan using Jenkins.
+
+### Azure Migration Project
+•	Migrated project in Azure to align with new business requirements
+•	Explored old setup and implemented new setup with Synapse SQL Pool replacing Databricks Delta table.
+•	Partition of tables by daily partitions with millions of rows.
+
+### Part Number Matcher
+•	Data Orchestration with Data Factory and Databricks to build an NLP powered Part number matcher at scale used downstream by business to improve grouping of similar part numbers.
+
+
+## Other Data Projects
+
+### **UNSPSC Categorizer** 
+NLP tool developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and Descriptions-UNSPSC labels as datasource (csv) to retrieve UNSPSC for a given part description.
+
+[See repository.](https://github.com/dehercar/UNSPSC_Categorizer)
 
 ##### Volumes
 - Gather data from Tableau Server with forecast volumes at part number level made by different areas.
