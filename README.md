@@ -37,23 +37,6 @@ NLP tool developed in Python using RegEx, NLTK and scikit-learn (Tfidf, SVM) and
 
 [See repository.](https://github.com/dehercar/UNSPSC_Categorizer)
 
-##### Volumes
-- Gather data from Tableau Server with forecast volumes at part number level made by different areas.
-- Creation of SQL Server Tables to store. 
-- ETL with SSIS dataflows.
-- Load data with PyODBC as described in Unit Costs predictions section.
-
-
-##### Market Raw Material Indices
-- Gather Market Raw Material Indices data from SQL Server to Python.
-- Get cost breakdowns implementing financial calculations to Market Indices in Total Parts Cost manipulating and merging data with Pandas.
-
-
-#### 2. Money Leakage
-- Join Price Update Requests and issued Invoices data to find Productivity GAP comparing prices using efficient conditional Joins with relevant date fields among others.
-
-The Tableau dashboard was made with features such as merge datasources, blend relationships, use of parameters, LOD expressions, etc.
-
 ### **Sea Level Predictor** 
 The objective of this project is to predict sea levels for 2050 based on a dataset of global sea levels since 1880.
 
