@@ -17,10 +17,10 @@ Location: Monterrey, Mexico.
 - Managing CI/CD Using Github.
 
 ### Appbot Datawarehouse
-- Implemented an ELT solution using medallion architecture to track Mobile App data from Appbot REST API.
-- Performed data profiling analysis and adhoc transformations in silver layer.
-- Created gold layer in Synapse SQL Pool.
-- Developed deployment plan using Jenkins.
+- Implemented an ELT solution using medallion architecture to track Mobile App data from Appbot REST API to extract insighful reviews and ratings data
+- Performed data profiling analysis and adhoc transformations in silver layer using delta loads.
+- Created and optimized gold layer in Synapse SQL Pool.
+- Usage of Github Copilot to accelerate the development process.
 - Managing CI/CD Using Github and Jenkins.
 
 ### Azure Migration Project
